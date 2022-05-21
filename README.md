@@ -1,0 +1,1 @@
+# Strapi-A2-Next.js
